@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjmatthiesen
 - 👀 I’m interested in: Human-Computer Interaction, Machine Learning (Deep Learning)
-- 🌱 I’m currently working one: developing more sufistocated models for interpreting mouse-cursor movement trajectories
+- 🌱 I’m currently working on: developing more sophisticated models for interpreting mouse-cursor movement trajectories
 - 💞️ I’m looking to collaborate on: machine learning and mouse cursor movement analysis
 - 📫 How to reach me: via mail
 
